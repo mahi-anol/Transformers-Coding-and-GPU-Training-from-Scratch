@@ -4,9 +4,9 @@ A complete implementation of the Transformer architecture for neural machine tra
 
 ## Why I Built This
 
-I started this project to move beyond just using pre-trained models and actually understand how Transformers work at a fundamental level. Reading the original "Attention is All You Need" paper was valuable, but seeing the architecture come to life through code really solidified my understanding. Each component—from multi-head attention to positional encoding—had specific design choices and trade-offs that became clear during implementation.
+I started this project to move beyond just using pre-trained models and actually understand how Transformers work at a fundamental level. Reading the original "Attention is All You Need" paper was valuable, but seeing the architecture come to life through code really solidified my understanding. Each component, from multi-head attention to positional encoding, had specific design choices and trade-offs that became clear during implementation.
 
-The goal wasn't to create a production-grade system but to grasp the mechanics: how the encoder and decoder communicate through attention, why causal masking matters in autoregressive generation, and how all the pieces fit together. This hands-on approach revealed details that explanations alone couldn't convey.
+The goal wasn't to create a production-grade system but to grasp the mechanics. How the encoder and decoder communicate through attention, why causal masking matters in autoregressive generation, and how all the pieces fit together. This hands-on approach revealed details that explanations alone couldn't convey.
 
 ## Project Structure
 
